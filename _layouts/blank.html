@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="index, follow" />
+  <link href="/img/favicon.png" rel="shortcut icon" />
+
+  <!-- Meta -->
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Sam's Lounge is a community based on coding and technology and other topics! {% endif %}" />
+  <meta name="keywords" content="nc, aerofusion, discord, website, site, crashie, netsky, jekyll, github, malware, technology, discord-servers, aerofusionyt, aurora, community, youtube, netsky, netsky-community, netsky_community, nc network, ncmusic, a-radio, windowsworld, wwp, windowsworld_productions" />
+  <meta name="google-site-verification" content="HHgVeQl44UQaDNmSMHSSqYsd-Be7ukmf3ZdpkFwVzNI" />
+  <!-- Open Graph  -->
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Sam's Lounge is a community based on coding and technology and other topics!{% endif %}" />
+  <meta property="og:image" content="/img/favicon.png" />
+  <meta name="theme-color" content="#300048">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@SLDiscord" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} &mdash; {% endif %}Sam's Lounge" />
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Sam's Lounge is a community based on coding and technology and other topics!{% endif %}" />
+  <meta name="twitter:image" content="/img/favicon.png" />
+  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+  <link href="style/frameworks/bulma.css" rel="stylesheet" />
+  <link href="style/style.css" rel="stylesheet" />
+
+  <title>{% if page.title %}{{ page.title }} &lsaquo; {% endif %}Sam's Lounge</title>
+</head>
+
+<body>
+
+  {{ content }}
+
+  <noscript id="deferred-styles">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+  </noscript>
+  <script>
+    var loadDeferredStyles = function () {
+      var addStylesNode = document.getElementById("deferred-styles");
+      var replacement = document.createElement("div");
+      replacement.innerHTML = addStylesNode.textContent;
+      document.body.appendChild(replacement)
+      addStylesNode.parentElement.removeChild(addStylesNode);
+    };
+    var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+      webkitRequestAnimationFrame || msRequestAnimationFrame;
+    if(raf) raf(function () { window.setTimeout(loadDeferredStyles, 0); });
+    else window.addEventListener('load', loadDeferredStyles);
+  </script>
+</body>
+
+</html>

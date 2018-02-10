@@ -1,0 +1,80 @@
+---
+layout: blank
+---
+<section class="hero is-medium" >
+  <div id="hero-head">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="/">
+          <p>Sam's Lounge</p>
+        </a>
+      </div>
+
+
+
+      <span class="nav-toggle">
+        <span></span>
+      <span></span>
+      <span></span>
+      </span>
+
+      <div class="nav-right nav-menu">
+        <a class="nav-item" href="/#about">
+          <i class="fas fa-question-circle fa-fw" style="margin-right: 5px;"></i> About
+        </a>
+        <a class="nav-item" href="/#staff">
+          <i class="fas fa-wrench fa-fw" style="margin-right: 5px;"></i> Staff
+        </a>
+        <a class="nav-item" href="/#cube">
+          <i class="fab fa-python fa-fw" style="margin-right: 5px;"></i> Dash
+        </a>
+        <a class="nav-item" href="/#sharex">
+          <i class="far fa-file-image fa-fw" style="margin-right: 5px;"></i> PXL
+        </a>
+      
+        <a class="nav-item" target="_blank" href="https://twitter.com/SLDiscord">
+          <i class="fab fa-twitter fa-fw" style="margin-right: 5px;"></i> Twitter
+	      </a>
+
+      </div>
+    </nav>
+  </div>
+  <div class="hero-body">
+    <img src="/img/logo.png" alt="SLlogo" style="width: 200px; border-radius: 50%;" id="netsky-hero-logo">
+    <h2 class="title">Sam's Lounge</h2>
+    <a class="button is-danger" target="_blank" href="https://discord.gg/EJFMNmD"> <i class="fas fa-external-link-alt fa-fw" style="margin-right: 5px;"></i> Join Sam's Lounge</a>   
+
+	
+
+  </div>
+</section>
+
+{{ content }}
+
+<footer class="footer">
+  <div class="container" id="footer-inner">
+    <div class="content has-text-centered">
+      <p><a href="#"><i class="fa fa-angle-up"></i></a></p>
+      <p>
+        Copyright &copy; 2018 Sam's Lounge. All rights reserved.
+        <br> Site by <a href="https://youtube.com/sam11870">Sam</a> and <a href="https://aerofusion.net">Espi</a>
+	      </p>
+		  </div>
+		  </div>
+		  </footer>
+
+
+
+   
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+  $(".nav-toggle").click(function() {
+    $(".nav-menu").toggleClass('is-active');
+    $(".nav-toggle").toggleClass('is-active');
+  });
+
+  // Prevent embedding
+  if (window.top !== window.self) {
+    window.top.location.replace(window.self.location.href);
+  }
+</script>

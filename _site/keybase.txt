@@ -1,0 +1,145 @@
+==================================================================
+https://keybase.io/aerofusion
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://netskycommunity.me
+  * I am aerofusion (https://keybase.io/aerofusion) on keybase.
+  * I have a public key with fingerprint 1C46 04CE 6925 B791 9118  CCA4 A519 D96F 78DE 14A3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120813bffbc48cba43de24be8a8d10ba678a49699229dace420532e59a58399eb7b0a",
+      "fingerprint": "1c4604ce6925b7919118cca4a519d96f78de14a3",
+      "host": "keybase.io",
+      "key_id": "a519d96f78de14a3",
+      "kid": "010143c589504e31b75b3f6b2105e1b114b7b8ac75854d47f60f3712da0f4334a2790a",
+      "uid": "521447bec220cfb18a769951c6b76019",
+      "username": "aerofusion"
+    },
+    "service": {
+      "hostname": "netskycommunity.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1515777163,
+  "expire_in": 157680000,
+  "prev": "dbbb848d397d920f76e7418caab0d199f094073c9467bd9146e487eda094bb6e",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMOAAnicbZJ9UFRVGMZ3WbURsjRXWBLQrjLjMKvdc++5H2c1pwHRwEElQjSQ9Z57
+z8WVZe+6dxfZQdTRtZrRIfwoLVRAdDQ+GmqyUNccBAszJ+3DryQnGQuMjFIsprTu
+ZfS/zj9nznue5zm/857TNc5mibUeSryqVfxgb7Se66gPWV5dNrC1ksKaEqZclVQp
+GZmIVyF60F3qUSgXRQOGFgGLVRXLUJSxBFmFMBATURIVQGOJF0QJIh4hhkGKJBPI
+0BzLEA5JnMgiRLCAaYlyUqrHV0IC/oDHFzRigQx5GsqERwyHBQQQAKIsS1DiAFIQ
+rwqiQgCUWMO4StNNhwGHJZ3M8mhGzVi4R/D+R/+YmwaQlTkRcTQkLMACh1mVxwyg
+OQIwANAAEyVZ4EQOKlBQeVplBcAoEq1CloUSI6AR7tBIHMcACAVMZIahZRUDURKM
+K3NA5rHA0wCZQp0EfFIZMalIQFNDukfzUVVOyqiXe2Ritta8yyONjwT10rCslZWF
+fJ5geJZRdFL+gBbUZM1r7K8KBv26y/QHw37TsJZg96MoN/b4FKOfhqOcBEbOcQFD
+KQc9ZjbgACcIAuBZJ0Uq/J4AcXtMBSfwIm0M8xxSbkQqGGMRigqLBAUxtCrwRIDG
+Q0gSphWAkEojSAusjCAvYAUByBMoCsToEYIY8yaxTtb4NMrFIINTKjEydU+JTwqG
+AoSqOt1RNMpijbWMGR1jfjRL7Njxj7/f8189/e/q7KsHXFvqZr6ZoK8ev2fHOy3r
+iyeEV0Rv5Q8ke8d+e3hgZk58+/jPF6Xw3qFn9NpXau9Xj2vrzRmFTvya9dT+upfv
+n5qctvDU96Tp65Vd/gtyvaOf3l1/Mdqwtlm7ForOOc47VvZfTM1Ozng9au+qWrf8
+jsOSk9IyP2PuPxfv7mpUd8ade3ueVnkmu1nfVKnfSB98rj1yZdKGpOmBndH+6UXD
+RdXhVj5+kveJbX37ejpPPhzcfAYlJW7r6WzsbJqYU3t82nDTiuuZnzCzb9V0xXy8
+Yy6dNwO4b6eLEx5UZG1YeBa3bJeH9953nP+teyA7/V5uTUqCLXHtl2172saN/YDq
++v1uw0cZubsndToveyP68qUfvqf1dh9662aS46Gjcci2bnQgs9tqj2sTa69vepB2
+Z7b6/gsnZtkXTS1LjHHd/HSfjX82vWbKCutrocq8ZPLX3xOPtr7Y8VldTUPW+QU2
+2FCwNy9/av7i/ne7Ghe4d02LFLf29cU1nC6OLD0avTLz0oxCP7r8xyXb4cXp6+dE
+uMINR/h9+VvO9F4bOrlm84lpTx767qVVX6zM/Gbe5uJIc/Evk+dn/pSa3Lc7IWMg
+oXqMU5py+8fS/fN6Uv9clHTDK92zjFnCHNt49UDShZTiB3m5Olk2mCXZwz1L+qwb
+U6mjx6wHtSMHr2w/i+Iz2zsKfi6Iib33RmFaQqH9PzzGu60=
+=e5kI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aerofusion
+
+==================================================================
+
+==================================================================
+https://keybase.io/dnomaid
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://netskycommunity.me
+  * I am dnomaid (https://keybase.io/dnomaid) on keybase.
+  * I have a public key with fingerprint 394A 2A47 DA4D A12C 1940  2B0A 4109 704C 5B7E 5E40
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010c91f6235308488146f8d198f56160e3792a8177689b856f32b76e15c58cb7b20a",
+      "fingerprint": "394a2a47da4da12c19402b0a4109704c5b7e5e40",
+      "host": "keybase.io",
+      "key_id": "4109704c5b7e5e40",
+      "kid": "01010c91f6235308488146f8d198f56160e3792a8177689b856f32b76e15c58cb7b20a",
+      "uid": "4d97a18bfdd85201eea8a7d543eae619",
+      "username": "dnomaid"
+    },
+    "service": {
+      "hostname": "netskycommunity.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1516404485,
+  "expire_in": 157680000,
+  "prev": "4d2aac347fe5cc38bbe529cf51907543b5ceda319ac9ad8d23006cb8c5ef20f1",
+  "seqno": 126,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIvAnicrVJfSBRBHL7zUsooTPtjV4QsYT0ctbO7szt7FkUpFkEPhoVZnjOzs7bp
+7Z6369UhVlTgQ0YUKdZDGCX9o5ekwKJ/JoJFBVdEkEVCfyAKStMerGjW6q3HZh6G
++c33fb/v+zH9M0KB3GDoQNWJxhsbVgQf3D3VFNhK9mY3C8Qx0kK0WahnkwdrMJjr
+xeotQ4gKIuCb6sBUJRnKIlIQAopqIgPoyIQqUEUma7qEEdA0FekEQdWUJaKpDEAK
+ESUakUQsRATTsutYMpG0bI/LyrqCJaxoBlYMDCQKdEWUiIgVIOqaqFBINAaZInLi
+Dsf1GdwcwS5bZjm8xi+xSXv/wP9n302/+xi6hgEipmEgKImAMYywZkBFZpipQPeB
+LkvaOM442rCdOOa8lojAiymLMn+ufpA/AJt5bn2aOvF4k2156WW8GBESScdzqNPA
+33d4XsKN+nwvnfAJuxiJ/ZGKEcs2+DA5I8WSruXYQhRwJPUsXxtAoCqioiAYEdju
+hJVkMctHQB5T5Mvvw1KTkSSMqaxoJoOUyogQBiWdmhDoosaDEUiZgWWgY6pjAxmS
+LIoqJYhCZkqiCQQ/XKPtcG1J5UZxHRd1rTobe01JJrT03dk2JRDMDeRkZ/nfLJA7
+Le/v51uDpgZaI6X3LsrdvenAyNkXB2dXh+9Vf8ALHibm1Z4J/zzSmTlacnjT6f5M
+ZW/O0vf51VcLccvb1MT2oNx37mDJ/fi+4uPGQFbj+XfuypO3emY9//Zo/rM5W+au
+7hhfMiP1BRxbubpveabzZc2zBU+u3xyqWVcxvWDmwjft3UNVs3sL5m7enb1vf7Bb
+7pp4PFZ0eedSuy/vx8f88mvlFcWFdt6Tkc+lP9NCWbSsK2wPrxpra+8p3Tu8sdbJ
+HhnZU1gkv74/Mf37I62nRh5/PXb1abE53Do60RAamrWfVKLQ2sGB8JWO5tYLqfXB
+SzWHClumjDZObV4c+pSQvg62LRoitx9kwqWvdv0CnT47LQ==
+=5Jpx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dnomaid
+
+==================================================================
+
