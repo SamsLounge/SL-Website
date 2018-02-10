@@ -1,6 +1,4 @@
-# Netsky Community's Official Website
+# Sam's Lounge Official Website
 
-**This is [Netsky Community](https://netskycommunity.me)'s official Website. Uses Jekyll & Bulma.**
-
-**Be sure to to read the [LICENSE](https://github.com/NetskyCommunity/NetskyWebsite/blob/master/LICENSE.md)**
+**This is [Sam's Lounge](https://samslounge.ml/)'s official Website. Uses Jekyll & Bulma.**
 
