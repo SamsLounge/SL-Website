@@ -7,7 +7,7 @@ window.onload = function() {
     var k = "{{KEY}}";
     var f = "{{FILE_LENGTH}}";
     var t = "{\r\n\
-      \"Name\": \"Netsky Community ShareX uploader\",\r\n\
+      \"Name\": \"Netsky Community pxl uploader\",\r\n\
       \"DestinationType\": \"ImageUploader, TextUploader, FileUploader\",\r\n\
       \"RequestType\": \"POST\",\r\n\
       \"RequestURL\": \"https://upload.netskycommunity.me\",\r\n\
@@ -36,7 +36,7 @@ window.onload = function() {
         var b = new Blob([s], {type: "application/octet-stream"});
         var u = window.URL.createObjectURL(b);
         a.href = u;
-        a.download = "sharex.sxcu";
+        a.download = "pxl.sxcu";
         a.click();
         window.URL.revokeObjectURL(u);
         a.parentElement.removeChild(a);
