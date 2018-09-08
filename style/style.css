@@ -60,22 +60,22 @@ a {
     font-size: 13px;
 }
 .ceo {
-    border: 3px solid #1BBC9B 
+    border: 3px solid #ff00f8
 }
 .manager {
-    border: 3px solid #5298ee 
-}
-.admin {
-    border: 3px solid #b469f0 
+    border: 3px solid #c700ff
 }
 .headadmin {
-    border: 3px solid #aa41ff 
+    border: 3px solid #0400ff
+}
+.admin {
+    border: 3px solid #0038ff
 }
 .mod {
-    border: 3px solid #2DCC70 
+    border: 3px solid #24ff00
 }
 .staff {
-    border: 3px solid #fa5044 
+    border: 3px solid #ff0000
 }
 .hero, nav {
     background-color: #300048!important 
